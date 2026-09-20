@@ -1,0 +1,3 @@
+Proveedor,Servicio Provisto,Nivel de Criticidad (1-5),Evaluacion de Riesgo Realizada,Acuerdo de Confidencialidad,Observaciones
+[Ejemplo genérico] Proveedor A,Servicio critico,4,No,No,Pendiente de evaluacion
+[Ejemplo genérico] Proveedor B,Servicio de soporte,2,No,Si,Pendiente de evaluacion

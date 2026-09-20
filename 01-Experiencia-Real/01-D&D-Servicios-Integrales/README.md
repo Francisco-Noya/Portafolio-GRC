@@ -1,0 +1,45 @@
+# D&D Servicios Integrales de Limpieza
+
+**Clasificación: Experiencia real**
+
+## Descripción general
+
+D&D Servicios Integrales de Limpieza es una organización real, dedicada a servicios de limpieza integral (limpieza previa y posterior a obras, primeras ocupaciones, post mudanza, aperturas comerciales, edificios, oficinas, instituciones educativas, automotoras y viviendas), limpieza de grandes superficies vidriadas, trabajos en altura e hidrolavado.
+
+Este proyecto consistió en el desarrollo de un **programa inicial de fortalecimiento de la seguridad de la información y gestión de riesgos**, partiendo de una organización sin un programa formal previo en esta materia.
+
+## Período
+
+2026
+
+## Ámbitos de trabajo
+
+- Governance, Risk & Compliance (GRC)
+- Seguridad de la Información
+- Gestión de Riesgos
+- Continuidad Operativa
+- Seguridad operacional
+
+## Alcance de este documento
+
+Esta carpeta documenta el trabajo realizado de forma anonimizada y generalizada, respetando la confidencialidad de la organización. No incluye datos personales, credenciales, información comercial sensible ni contenido que pudiera facilitar un ataque contra la organización.
+
+## Aclaraciones importantes
+
+- D&D **no está certificada** en ISO/IEC 27001 ni en ningún otro estándar. Los marcos utilizados (ISO/IEC 27001:2022, ISO/IEC 27002:2022, ISO 31000:2018, NIST CSF 2.0, ISO 45001 como referencia complementaria) se emplearon como **referencia metodológica y de buenas prácticas**, no como base de una certificación.
+- No se realizó una auditoría de certificación, una auditoría legal, una auditoría técnica de infraestructura ni un pentest.
+- No se afirma cumplimiento regulatorio integral; cualquier referencia normativa se presenta como buena práctica o punto de atención, no como dictamen legal.
+
+## Estructura de la documentación
+
+| Carpeta | Contenido |
+|---|---|
+| [01-Contexto](./01-Contexto/) | Descripción del contexto organizacional, operativo y tecnológico de D&D. |
+| [02-Alcance](./02-Alcance/) | Alcance definido para el trabajo realizado. |
+| [03-Inventario-de-Activos](./03-Inventario-de-Activos/) | Activos de información identificados. |
+| [04-Evaluacion-de-Riesgos](./04-Evaluacion-de-Riesgos/) | Metodología y resultados generales de la evaluación de riesgos. |
+| [05-Tratamiento-de-Riesgos](./05-Tratamiento-de-Riesgos/) | Enfoque de tratamiento aplicado a los riesgos priorizados. |
+| [06-Politicas-y-Controles](./06-Politicas-y-Controles/) | Políticas y controles propuestos. |
+| [07-Continuidad-Operativa](./07-Continuidad-Operativa/) | Consideraciones de continuidad operativa relevadas. |
+| [08-Entregables](./08-Entregables/) | Listado de entregables generados durante el proyecto. |
+| [09-Confidencialidad](./09-Confidencialidad/) | Criterios de anonimización aplicados a esta documentación. |

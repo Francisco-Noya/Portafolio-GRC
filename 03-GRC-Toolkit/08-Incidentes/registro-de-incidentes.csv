@@ -1,0 +1,3 @@
+ID,Fecha,Descripcion,Categoria,Impacto (1-5),Acciones Tomadas,Estado,Lecciones Aprendidas
+I-01,[Ejemplo genérico],Intento de phishing detectado,Seguridad de la Informacion,2,Bloqueo de remitente y aviso al personal,Cerrado,[Ejemplo genérico]
+I-02,[Ejemplo genérico],Acceso con cuenta compartida detectado,Gestion de Accesos,3,Revision de politica de cuentas,En seguimiento,[Ejemplo genérico]

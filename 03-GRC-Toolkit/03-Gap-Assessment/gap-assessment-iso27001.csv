@@ -1,0 +1,7 @@
+Dominio,Control,Nivel de Cumplimiento (0-4),Brecha Identificada,Prioridad,Observaciones
+Organizacional,Politicas de seguridad,1,Ausencia de politica formal aprobada,Alta,[Ejemplo genérico]
+Organizacional,Roles y responsabilidades,2,Roles definidos informalmente,Media,[Ejemplo genérico]
+Personas,Concientizacion,1,Sin programa de capacitacion periodica,Alta,[Ejemplo genérico]
+Fisico,Seguridad de instalaciones,2,Controles de acceso fisico parciales,Media,[Ejemplo genérico]
+Tecnologico,Gestion de accesos,1,Sin proceso formal de altas/bajas,Alta,[Ejemplo genérico]
+Tecnologico,Copias de respaldo,2,Sin pruebas de restauracion periodicas,Alta,[Ejemplo genérico]

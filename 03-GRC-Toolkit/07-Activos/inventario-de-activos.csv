@@ -1,0 +1,5 @@
+ID,Activo,Tipo,Propietario,Criticidad (1-5),Descripcion
+A-01,[Ejemplo genérico] Servidor de correo,Tecnologico,[Ejemplo genérico],4,Servicio de correo corporativo
+A-02,[Ejemplo genérico] Repositorio en la nube,Tecnologico,[Ejemplo genérico],4,Almacenamiento de documentacion
+A-03,[Ejemplo genérico] Base de datos de clientes,Informacion,[Ejemplo genérico],5,Informacion comercial de clientes
+A-04,[Ejemplo genérico] Personal administrativo,Personas,[Ejemplo genérico],3,Personal con acceso a sistemas criticos

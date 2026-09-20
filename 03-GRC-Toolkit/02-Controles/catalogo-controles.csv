@@ -1,0 +1,7 @@
+ID,Dominio,Control,Descripcion,Estado de Implementacion,Evidencia,Observaciones
+C-01,Organizacional,Politicas de seguridad de la informacion,Existencia de politicas formales aprobadas y comunicadas,No implementado,[Ejemplo genérico],[Ejemplo genérico]
+C-02,Personas,Concientizacion y capacitacion,Programa de capacitacion periodica en seguridad,Parcial,[Ejemplo genérico],[Ejemplo genérico]
+C-03,Fisico,Control de acceso fisico,Restriccion de acceso a instalaciones y depositos,Parcial,[Ejemplo genérico],[Ejemplo genérico]
+C-04,Tecnologico,Autenticacion multifactor (MFA),MFA habilitado en servicios criticos,No implementado,[Ejemplo genérico],[Ejemplo genérico]
+C-05,Tecnologico,Gestion de copias de respaldo,Politica de backup y pruebas de restauracion periodicas,Parcial,[Ejemplo genérico],[Ejemplo genérico]
+C-06,Organizacional,Gestion de proveedores,Evaluacion de riesgos de proveedores criticos,No implementado,[Ejemplo genérico],[Ejemplo genérico]

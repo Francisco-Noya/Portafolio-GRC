@@ -1,0 +1,4 @@
+Proceso Critico,Dependencias,Impacto ante Interrupcion (1-5),RTO,RPO,Estrategia de Recuperacion
+[Ejemplo genérico] Facturacion,Sistema de facturacion / conectividad,4,24 horas,4 horas,Procedimiento manual temporal + restauracion de sistema
+[Ejemplo genérico] Gestion administrativa,Sistema de gestion / repositorio en la nube,3,48 horas,24 horas,Respaldo local + restauracion desde la nube
+[Ejemplo genérico] Operacion en campo,Personal / equipos / EPP,3,72 horas,No aplica,Reasignacion de recursos disponibles

@@ -1,0 +1,4 @@
+ID,Riesgo,Categoria,Activo Afectado,Amenaza,Vulnerabilidad,Probabilidad (1-5),Impacto (1-5),Nivel de Riesgo,Tratamiento Propuesto,Responsable,Estado
+R-01,[Ejemplo genérico] Acceso no autorizado a cuenta de correo,Seguridad de la Información,Correo corporativo,Phishing,Ausencia de MFA,4,4,16,Mitigar - implementar MFA,[Pendiente de asignación],Abierto
+R-02,[Ejemplo genérico] Pérdida de información por falta de respaldo,Continuidad,Repositorio en la nube,Falla técnica / borrado accidental,Ausencia de pruebas de restauración,3,4,12,Mitigar - definir política de backup y pruebas periódicas,[Pendiente de asignación],Abierto
+R-03,[Ejemplo genérico] Uso de cuentas compartidas,Gestión de Accesos,Sistemas administrativos,Uso indebido de credenciales,Falta de cuentas individuales,3,3,9,Mitigar - migrar a cuentas individuales,[Pendiente de asignación],Abierto
