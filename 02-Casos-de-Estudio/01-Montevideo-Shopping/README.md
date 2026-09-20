@@ -53,4 +53,6 @@ Marcos utilizados: ISO/IEC 27001, ISO 31000, NIST CSF 2.0, CIS Controls v8, ISO 
 
 ## Documentación detallada
 
-`[DOCUMENTO A PUBLICAR]` — El desarrollo completo del análisis (activos, heatmap y roadmap detallados) se incorporará de forma incremental a este repositorio.
+El desarrollo completo del análisis está disponible en el siguiente documento:
+
+📄 [Evaluación de Riesgos y Resiliencia Operativa — Montevideo Shopping](./Evaluacion-de-Riesgos-y-Resiliencia-Operativa.pdf)
