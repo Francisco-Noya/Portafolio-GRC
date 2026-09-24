@@ -4,10 +4,9 @@
 
 ## Descripción general
 
-D&D Servicios Integrales de Limpieza es una organización real, dedicada a servicios de limpieza integral (limpieza previa y posterior a obras, primeras ocupaciones, post mudanza, aperturas comerciales, edificios, oficinas, instituciones educativas, automotoras y viviendas), limpieza de grandes superficies vidriadas, trabajos en altura e hidrolavado.
+D&D Servicios Integrales de Limpieza es una organización real dedicada a servicios de limpieza integral, incluyendo limpieza previa y posterior a obras, primeras ocupaciones, post mudanza, aperturas comerciales, edificios, oficinas, instituciones educativas, automotoras y viviendas, así como limpieza de grandes superficies vidriadas, trabajos en altura e hidrolavado.
 
-Este proyecto consistió en el desarrollo de un **programa inicial de fortalecimiento de la seguridad de la información y gestión de riesgos**, partiendo de una organización sin un programa formal previo en esta materia.
-
+Este proyecto se desarrolló como una **colaboración aplicada orientada al fortalecimiento inicial de la seguridad de la información y la gestión de riesgos**, trabajando sobre un contexto organizacional real y partiendo de una organización sin un programa formal previo en esta materia.
 ## Período
 
 2026
