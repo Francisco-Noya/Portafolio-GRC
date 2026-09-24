@@ -19,6 +19,10 @@ Este proyecto se desarrolló como una **colaboración aplicada orientada al fort
 - Continuidad Operativa
 - Seguridad operacional
 
+## Participación
+
+El trabajo fue desarrollado mediante una **colaboración aplicada**, participando en el relevamiento inicial, identificación de activos, evaluación y tratamiento de riesgos, definición de lineamientos de seguridad y elaboración de documentación de apoyo para el fortalecimiento de la gestión de la seguridad de la información.
+
 ## Alcance de este documento
 
 Esta carpeta contiene una **versión pública, anonimizada y generalizada de la documentación desarrollada durante el proyecto**, elaborada con el objetivo de demostrar el enfoque metodológico y el trabajo realizado en materia de GRC, seguridad de la información y gestión de riesgos.
@@ -40,7 +44,7 @@ La documentación publicada respeta la confidencialidad de la organización y no
 | [03-Inventario-de-Activos](./03-Inventario-de-Activos/) | Activos de información identificados. |
 | [04-Evaluacion-de-Riesgos](./04-Evaluacion-de-Riesgos/) | Metodología y resultados generales de la evaluación de riesgos. |
 | [05-Tratamiento-de-Riesgos](./05-Tratamiento-de-Riesgos/) | Enfoque de tratamiento aplicado a los riesgos priorizados. |
-| [06-Politicas-y-Controles](./06-Politicas-y-Controles/) | Políticas y controles propuestos. |
+| [06-Politicas-y-Controles](./06-Politicas-y-Controles/) | Políticas y controles desarrollados durante el programa inicial.. |
 | [07-Continuidad-Operativa](./07-Continuidad-Operativa/) | Consideraciones de continuidad operativa relevadas. |
 | [08-Entregables](./08-Entregables/) | Listado de entregables generados durante el proyecto. |
 | [09-Confidencialidad](./09-Confidencialidad/) | Criterios de anonimización aplicados a esta documentación. |
