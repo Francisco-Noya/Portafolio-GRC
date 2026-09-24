@@ -12,7 +12,7 @@ Las siguientes políticas fueron elaboradas como parte del programa de fortaleci
 
 | Código | Política | Documento |
 |---|---|---|
-| **POL-001** | Política de Seguridad de la Información | [Ver política](./Política de Seguridad de la Información.pdf) |
+| **POL-001** | Política de Seguridad de la Información | [Ver política](./POL-001-Politica-de-Seguridad-de-la-Informacion.pdf) |
 | **POL-002** | Política de Gestión de Contraseñas | [Ver política](./POL-002-Politica-de-Gestion-de-Contraseñas.pdf) |
 | **POL-003** | Política de Control de Accesos | [Ver política](./POL-003-Politica-de-Control-de-Accesos.pdf) |
 | **POL-004** | Política de Uso Aceptable de Recursos Informáticos | [Ver política](./POL-004-Politica-de-Uso-Aceptable.pdf) |
