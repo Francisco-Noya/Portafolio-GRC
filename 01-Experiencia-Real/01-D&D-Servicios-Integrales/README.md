@@ -21,7 +21,9 @@ Este proyecto se desarrolló como una **colaboración aplicada orientada al fort
 
 ## Alcance de este documento
 
-Esta carpeta documenta el trabajo realizado de forma anonimizada y generalizada, respetando la confidencialidad de la organización. No incluye datos personales, credenciales, información comercial sensible ni contenido que pudiera facilitar un ataque contra la organización.
+Esta carpeta contiene una **versión pública, anonimizada y generalizada de la documentación desarrollada durante el proyecto**, elaborada con el objetivo de demostrar el enfoque metodológico y el trabajo realizado en materia de GRC, seguridad de la información y gestión de riesgos.
+
+La documentación publicada respeta la confidencialidad de la organización y no incluye datos personales, credenciales, información comercial sensible, configuraciones específicas ni contenido que pudiera facilitar un ataque contra la organización.
 
 ## Aclaraciones importantes
 
