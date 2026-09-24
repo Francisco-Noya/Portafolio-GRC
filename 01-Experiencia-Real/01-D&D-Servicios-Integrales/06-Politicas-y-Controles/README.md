@@ -42,4 +42,4 @@ La publicación de estos documentos tiene como objetivo demostrar la metodologí
 
 ## Aclaración
 
-Los controles descritos representan propuestas y lineamientos desarrollados en el marco del programa inicial. La existencia de una política o control documentado no implica necesariamente que se encuentre implementado, operativo o verificado mediante una auditoría formal.
+Las políticas y controles documentados representan los lineamientos desarrollados durante el programa inicial. Su documentación no implica que la totalidad de los controles se encuentre implementada, operativa o verificada mediante una auditoría formal.
