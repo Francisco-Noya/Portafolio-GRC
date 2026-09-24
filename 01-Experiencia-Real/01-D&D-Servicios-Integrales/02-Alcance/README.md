@@ -16,11 +16,13 @@ El trabajo se centró en el desarrollo de un **programa inicial** de fortalecimi
 ## Fuera de alcance
 
 - Auditoría de certificación (ISO/IEC 27001 u otra).
-- Auditoría legal o de cumplimiento normativo formal.
+- Auditoría legal, evaluación jurídica o de cumplimiento normativo formal.
 - Pruebas de penetración (pentest) o análisis técnico de vulnerabilidades de infraestructura.
 - Implementación completa de un SGSI (Sistema de Gestión de Seguridad de la Información).
 - Auditoría de proveedores tecnológicos externos (OneDrive, Efactura, DataMatic).
 
 ## Criterios de referencia
 
-El alcance y las prioridades del trabajo se definieron utilizando como referencia metodológica ISO/IEC 27001:2022, ISO/IEC 27002:2022, ISO 31000:2018 y NIST CSF 2.0, complementados con ISO 45001 para los aspectos de seguridad operacional. Estos marcos se usaron como guía de buenas prácticas, no como estándares certificados por la organización.
+El alcance y las prioridades del trabajo se definieron utilizando como referencia metodológica ISO/IEC 27001:2022, ISO/IEC 27002:2022, ISO 31000:2018 y NIST CSF 2.0, complementados con ISO 45001 para los aspectos de seguridad operacional.
+
+Estos marcos se utilizaron como guía metodológica y de buenas prácticas y no implican certificación, auditoría de conformidad ni declaración de cumplimiento por parte de la organización.
