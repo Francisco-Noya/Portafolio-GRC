@@ -1,18 +1,12 @@
 # Contexto — D&D Servicios Integrales de Limpieza
 
-[svg](https://github.com/Francisco-Noya/Portafolio-GRC/tree/main/01-Experiencia-Real/01-D%26D-Servicios-Integrales/01-Contexto#contexto--dd-servicios-integrales-de-limpieza)
-
 **Clasificación: Experiencia real — Información generalizada por confidencialidad**
 
 ## Perfil de la organización
 
-[svg](https://github.com/Francisco-Noya/Portafolio-GRC/tree/main/01-Experiencia-Real/01-D%26D-Servicios-Integrales/01-Contexto#perfil-de-la-organizaci%C3%B3n)
-
 D&D Servicios Integrales de Limpieza es una organización dedicada a la prestación de servicios integrales de limpieza, con aproximadamente **50 empleados** distribuidos entre funciones administrativas y actividades operativas en campo.
 
 ## Infraestructura relevada
-
-[svg](https://github.com/Francisco-Noya/Portafolio-GRC/tree/main/01-Experiencia-Real/01-D%26D-Servicios-Integrales/01-Contexto#infraestructura-relevada)
 
 Durante el relevamiento inicial se identificó, de forma generalizada, el siguiente contexto tecnológico:
 
@@ -25,8 +19,6 @@ Durante el relevamiento inicial se identificó, de forma generalizada, el siguie
 - Al momento del relevamiento, no se identificó un responsable formal de IT dentro de la estructura organizativa relevada.
 
 ## Servicios y actividades de la organización
-
-[svg](https://github.com/Francisco-Noya/Portafolio-GRC/tree/main/01-Experiencia-Real/01-D%26D-Servicios-Integrales/01-Contexto#servicios-y-actividades-de-la-organizaci%C3%B3n)
 
 Entre las principales actividades desarrolladas por la organización se encuentran:
 
@@ -42,8 +34,6 @@ Entre las principales actividades desarrolladas por la organización se encuentr
 
 ## Elementos operativos relevantes para el análisis de riesgos
 
-[svg](https://github.com/Francisco-Noya/Portafolio-GRC/tree/main/01-Experiencia-Real/01-D%26D-Servicios-Integrales/01-Contexto#elementos-operativos-relevantes-para-el-an%C3%A1lisis-de-riesgos)
-
 Como parte del contexto operativo considerado para el análisis de riesgos, se identificaron, entre otros, los siguientes elementos:
 
 - Uso de pulidoras e hidrolavadoras.
@@ -53,8 +43,6 @@ Como parte del contexto operativo considerado para el análisis de riesgos, se i
 - Actividades realizadas en entornos operativos diversos, incluyendo trabajos en altura.
 
 ## Observación general
-
-[svg](https://github.com/Francisco-Noya/Portafolio-GRC/tree/main/01-Experiencia-Real/01-D%26D-Servicios-Integrales/01-Contexto#observaci%C3%B3n-general)
 
 El contexto de D&D combina aspectos relacionados con la seguridad de la información y la continuidad de los servicios administrativos con riesgos operativos propios de una organización de servicios de campo.
 
