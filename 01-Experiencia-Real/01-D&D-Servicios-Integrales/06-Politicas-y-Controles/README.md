@@ -18,7 +18,7 @@ Las siguientes políticas fueron elaboradas como parte del programa de fortaleci
 | **POL-004** | Política de Uso Aceptable de Recursos Informáticos | [Ver política](./POL-004-Politica-de-Uso-Aceptable.pdf) |
 | **POL-005** | Política de Copias de Seguridad | [Ver política](./POL-005-Politica-de-Copias-de-Seguridad.pdf) |
 | **POL-006** | Política de Gestión de Incidentes | [Ver política](./POL-006-Politica-de-Gestion-de-Incidentes.pdf) |
-| **POL-007** | Política de Seguridad Física | [Ver política](./POL-007-Politica-de-Seguridad-Fisica.pdf) |
+| **POL-007** | Política de Proteccion de datos Personales | [Ver política](./POL-007-Politica-de-Proteccion-de-Datos-Personales.pdf) |
 | **POL-008** | Política de Gestión de Proveedores | [Ver política](./POL-008-Politica-de-Gestion-de-Proveedores.pdf) |
 | **POL-009** | Política de Protección de la Información | [Ver política](./POL-009-Politica-de-Proteccion-de-la-Informacion.pdf) |
 
