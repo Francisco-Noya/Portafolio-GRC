@@ -46,5 +46,5 @@ La documentación publicada respeta la confidencialidad de la organización y no
 | [05-Tratamiento-de-Riesgos](./05-Tratamiento-de-Riesgos/) | Enfoque de tratamiento aplicado a los riesgos priorizados. |
 | [06-Politicas-y-Controles](./06-Politicas-y-Controles/) | Políticas y controles desarrollados durante el programa inicial.. |
 | [07-Continuidad-Operativa](./07-Continuidad-Operativa/) | Consideraciones de continuidad operativa relevadas. |
-| [08-Plan de Acción y Roadmap](./08-Plan-de-Acción-y-Roadmap/) | Plan de acción y roadmap para el tratamiento progresivo de los riesgos priorizados. |
+| [08-Plan-de-Acción-y-Roadmap](./08-Plan-de-Acción-y-Roadmap/) | Plan de acción y roadmap para el tratamiento progresivo de los riesgos priorizados. |
 | [09-Confidencialidad](./09-Confidencialidad/) | Criterios de anonimización aplicados a esta documentación. |
