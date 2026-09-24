@@ -4,23 +4,42 @@
 
 ## Enfoque
 
-Como parte del programa inicial se propuso un conjunto base de políticas y controles, adaptado al tamaño y madurez de la organización, tomando como referencia el catálogo de controles de ISO/IEC 27002:2022 y aspectos complementarios de ISO 45001 para seguridad operacional.
+Como parte del programa inicial se desarrolló un conjunto de políticas y controles adaptado al tamaño y nivel de madurez de la organización, tomando como referencia ISO/IEC 27001:2022, ISO/IEC 27002:2022, ISO 31000:2018 y aspectos complementarios de ISO 45001 para seguridad operacional.
+
+## Políticas desarrolladas
+
+Las siguientes políticas fueron elaboradas como parte del programa de fortalecimiento de la seguridad de la información.
+
+| Código | Política | Documento |
+|---|---|---|
+| **POL-001** | Política de Seguridad de la Información | [Ver política](./POL-001-Politica-de-Seguridad-de-la-Informacion.pdf) |
+| **POL-002** | Política de Gestión de Contraseñas | [Ver política](./POL-002-Politica-de-Gestion-de-Contraseñas.pdf) |
+| **POL-003** | Política de Control de Accesos | [Ver política](./POL-003-Politica-de-Control-de-Accesos.pdf) |
+| **POL-004** | Política de Uso Aceptable de Recursos Informáticos | [Ver política](./POL-004-Politica-de-Uso-Aceptable.pdf) |
+| **POL-005** | Política de Copias de Seguridad | [Ver política](./POL-005-Politica-de-Copias-de-Seguridad.pdf) |
+| **POL-006** | Política de Gestión de Incidentes | [Ver política](./POL-006-Politica-de-Gestion-de-Incidentes.pdf) |
+| **POL-007** | Política de Seguridad Física | [Ver política](./POL-007-Politica-de-Seguridad-Fisica.pdf) |
+| **POL-008** | Política de Gestión de Proveedores | [Ver política](./POL-008-Politica-de-Gestion-de-Proveedores.pdf) |
+| **POL-009** | Política de Protección de la Información | [Ver política](./POL-009-Politica-de-Proteccion-de-la-Informacion.pdf) |
 
 ## Áreas cubiertas
 
-- Política de contraseñas y autenticación.
-- Uso aceptable de equipos y recursos (PC administrativa, laptops operativas).
-- Gestión de accesos y cuentas de usuario.
-- Protección y respaldo de información en OneDrive.
-- Manejo y almacenamiento de productos químicos.
-- Uso de elementos de protección personal (EPP).
-- Seguridad física de oficinas y depósitos.
-- Relación con proveedores críticos (Efactura, DataMatic).
+- Gestión de identidades y accesos.
+- Contraseñas y autenticación.
+- Uso aceptable de equipos y recursos.
+- Protección y respaldo de información.
+- Gestión de incidentes.
+- Seguridad física.
+- Gestión de proveedores.
+- Protección de información.
+- Seguridad operacional.
 
-## Documentación
+## Publicación y confidencialidad
 
-Las políticas formalmente redactadas para la organización constituyen un entregable interno y no se publican en su versión completa: `[DOCUMENTO A PUBLICAR]`. En [03-GRC-Toolkit / 05-Politicas](../../../03-GRC-Toolkit/05-Politicas/) se incluye una plantilla genérica de política de seguridad, no vinculada específicamente a D&D, disponible como referencia metodológica.
+Los documentos publicados corresponden a versiones preparadas para el portfolio profesional. Se han generalizado o eliminado elementos que puedan comprometer información confidencial de la organización, personas, clientes, proveedores o infraestructura.
+
+La publicación de estos documentos tiene como objetivo demostrar la metodología, estructura y criterios aplicados durante la experiencia real.
 
 ## Aclaración
 
-Los controles descritos representan propuestas desarrolladas en el marco del programa inicial. No se afirma que la totalidad de estos controles se encuentre implementada ni verificada mediante auditoría.
+Los controles descritos representan propuestas y lineamientos desarrollados en el marco del programa inicial. La existencia de una política o control documentado no implica necesariamente que se encuentre implementado, operativo o verificado mediante una auditoría formal.
