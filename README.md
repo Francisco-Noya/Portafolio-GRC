@@ -82,7 +82,9 @@ La sección [08-Recursos](./08-Recursos/) incluye un glosario de términos GRC, 
 Montevideo, Uruguay
 GRC · Seguridad de la Información · Gestión de Riesgos
 
-*(Datos de contacto a completar por el autor antes de publicar el repositorio — LinkedIn / email / GitHub.)*
+- 📧 Email: [fran.noya15@gmail.com](mailto:fran.noya15@gmail.com)
+- 📱 Teléfono: +598 95 353 397
+- 💼 LinkedIn: [linkedin.com/in/francisco-noya-b2278a331](https://www.linkedin.com/in/francisco-noya-b2278a331)
 
 ---
 
