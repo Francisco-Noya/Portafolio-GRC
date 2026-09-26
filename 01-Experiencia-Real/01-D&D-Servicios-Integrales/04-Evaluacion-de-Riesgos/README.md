@@ -4,31 +4,94 @@
 
 ## Metodología
 
-La evaluación de riesgos se desarrolló siguiendo los principios generales de ISO 31000:2018 y utilizando ISO/IEC 27005 como referencia específica para la gestión de riesgos de seguridad de la información, complementada con NIST CSF 2.0. El análisis consideró tanto riesgos de seguridad de la información como riesgos operacionales asociados a la actividad de la empresa.
+La evaluación de riesgos se desarrolló siguiendo los principios generales de **ISO 31000:2018** y utilizando **ISO/IEC 27005** como referencia específica para la gestión de riesgos de seguridad de la información, complementada con **NIST CSF 2.0**.
 
-El registro de riesgos desarrollado llegó a contemplar **18 riesgos**, cubriendo tanto el entorno tecnológico y administrativo (correo, cuentas, contraseñas, respaldo de información) como el entorno operativo (productos químicos, EPP, seguridad física y continuidad de proveedores).
+El análisis contempló tanto riesgos relacionados con la seguridad de la información como riesgos operacionales y de seguridad física asociados a las características de la actividad de la organización.
 
-## Prioridades identificadas
+La evaluación consideró principalmente:
 
-Entre los riesgos priorizados en el análisis se incluyeron:
+- Identificación de amenazas y situaciones de riesgo.
+- Análisis de probabilidad.
+- Análisis de impacto.
+- Determinación del nivel de riesgo.
+- Priorización de riesgos.
+- Identificación de medidas de tratamiento.
+- Consideración de controles existentes y oportunidades de mejora.
+
+La valoración utilizó una escala de **probabilidad e impacto de tres niveles**, a partir de la cual se determinó el nivel de riesgo correspondiente.
+
+## Resultado general
+
+El análisis permitió identificar y valorar **18 riesgos**.
+
+La distribución general de los riesgos identificados fue:
+
+| Nivel de riesgo | Cantidad |
+|---|---:|
+| Crítico | 5 |
+| Alto | 11 |
+| Medio | 2 |
+| Bajo | 0 |
+| **Total** | **18** |
+
+Los resultados evidenciaron una concentración de riesgos en los niveles **Crítico y Alto**, lo que permitió establecer prioridades para las etapas posteriores de tratamiento.
+
+## Principales categorías de riesgo identificadas
+
+Entre las situaciones de riesgo consideradas durante el análisis se incluyeron:
+
+### Seguridad de la información
 
 - Ausencia de MFA (autenticación multifactor) para correo y otros servicios.
 - Uso de cuentas compartidas en lugar de cuentas individuales.
-- Necesidad de capacitación y concientización del personal.
-- Ausencia de una política formal de contraseñas.
-- Falta de un proceso formal de gestión de altas, bajas y modificaciones de usuarios.
-- Protección insuficiente de la información sensible.
-- Versionado y respaldo de la información almacenada en OneDrive.
+- Gestión insuficiente de contraseñas.
+- Ausencia de un proceso formal de altas, bajas y modificaciones de usuarios.
+- Protección insuficiente de información sensible.
+- Dependencia de servicios tecnológicos externos.
+- Necesidad de fortalecer los mecanismos de respaldo y recuperación de información.
 - Ausencia de pruebas periódicas de restauración de respaldos.
-- Gestión de productos químicos y su documentación asociada (fichas de seguridad).
+
+### Seguridad operacional y física
+
+- Gestión de productos químicos y documentación asociada.
 - Uso efectivo de elementos de protección personal (EPP).
+- Riesgos asociados al uso de maquinaria y equipamiento operativo.
 - Seguridad física de las instalaciones.
-- Riesgo de acceso no autorizado al depósito.
-- Riesgo de interrupción por parte de proveedores críticos.
-- Continuidad operativa ante interrupciones.
+- Acceso no autorizado a áreas de depósito.
+- Condiciones de seguridad asociadas a las actividades desarrolladas en instalaciones de clientes.
+
+### Continuidad y terceros
+
+- Dependencia de proveedores críticos.
+- Posibles interrupciones de servicios externos.
+- Necesidad de fortalecer medidas de continuidad operativa.
+
+## Priorización
+
+La evaluación permitió establecer una base objetiva para priorizar las acciones de tratamiento.
+
+Los riesgos identificados como **Críticos** fueron considerados dentro de las primeras prioridades de intervención, seguidos por los riesgos clasificados como **Altos**.
+
+La priorización fue utilizada posteriormente para definir medidas de tratamiento y organizar las acciones propuestas en diferentes horizontes temporales.
+
+## Relación con el tratamiento de riesgos
+
+Los resultados de esta evaluación constituyeron el insumo principal para la siguiente etapa del proyecto:
+
+**Evaluación de Riesgos → Tratamiento de Riesgos**
+
+El tratamiento posterior contempla alternativas de respuesta y medidas propuestas para abordar los riesgos identificados, de acuerdo con su nivel de prioridad.
 
 ## Alcance de la información publicada
 
-El detalle completo de los 18 riesgos (probabilidad, impacto, nivel de riesgo y responsable) corresponde a un entregable interno de la organización y no se publica en este repositorio por razones de confidencialidad: `[DOCUMENTO ANONIMIZADO]`.
+El registro detallado de los 18 riesgos, incluyendo escenarios específicos, valoración individual de probabilidad e impacto, responsables, controles y demás información asociada, corresponde a documentación de trabajo de la organización.
 
-Para ilustrar la estructura metodológica utilizada, sin exponer información real de D&D, se encuentra disponible una plantilla genérica en [03-GRC-Toolkit / 01-Gestion-de-Riesgos](https://github.com/Francisco-Noya/Portafolio-GRC/blob/main/03-GRC-Toolkit/01-Gestion-de-Riesgos).
+Por razones de confidencialidad, dicha información no se publica de forma íntegra en este repositorio.
+
+La información presentada en esta sección muestra únicamente **resultados agregados y categorías generales**, suficientes para demostrar la metodología y el enfoque aplicado sin exponer información sensible de D&D.
+
+Como complemento metodológico, se encuentra disponible una plantilla genérica de gestión de riesgos en:
+
+[03-GRC-Toolkit / 01-Gestion-de-Riesgos](https://github.com/Francisco-Noya/Portafolio-GRC/tree/main/03-GRC-Toolkit/01-Gestion-de-Riesgos)
+
+> **Nota:** La evaluación publicada representa una síntesis generalizada del análisis realizado. No constituye una reproducción del registro interno de riesgos de la organización.
