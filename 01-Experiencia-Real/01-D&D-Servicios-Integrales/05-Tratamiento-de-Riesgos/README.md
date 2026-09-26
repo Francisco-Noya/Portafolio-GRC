@@ -4,11 +4,22 @@
 
 ## Enfoque
 
-A partir de la evaluación de riesgos realizada, se planteó un **plan inicial de tratamiento** para los riesgos priorizados, considerando opciones como mitigar, transferir, aceptar o evitar.
+A partir de la evaluación de riesgos realizada, se desarrolló un **plan inicial de tratamiento** para los riesgos priorizados, considerando diferentes alternativas de respuesta al riesgo.
 
 La definición de las medidas de tratamiento tomó como referencia los principios de **ISO 31000:2018** para la gestión de riesgos y **ISO/IEC 27002:2022** para la selección de controles de seguridad de la información.
 
-El tratamiento fue planteado considerando tanto riesgos relacionados con la seguridad de la información como riesgos operativos y de continuidad identificados durante el relevamiento.
+El tratamiento contempló tanto riesgos relacionados con la seguridad de la información como riesgos operativos, físicos y de continuidad identificados durante el relevamiento.
+
+## Alternativas de tratamiento
+
+Las alternativas consideradas fueron:
+
+- **Mitigar:** implementar medidas orientadas a reducir la probabilidad y/o el impacto del riesgo.
+- **Transferir:** trasladar parte de las consecuencias o responsabilidades asociadas al riesgo a un tercero, cuando resulte aplicable.
+- **Aceptar:** mantener el riesgo bajo determinados criterios y condiciones de aceptación.
+- **Evitar:** modificar o discontinuar una actividad cuando el riesgo no resulte razonablemente gestionable mediante otras alternativas.
+
+Para los riesgos evaluados en este proyecto, el tratamiento propuesto se concentró principalmente en medidas de **mitigación**, junto con un caso de **transferencia de riesgo**.
 
 ## Líneas de tratamiento priorizadas
 
@@ -39,25 +50,35 @@ Las medidas fueron priorizadas considerando factores como:
 - Posibilidad de reducción del riesgo.
 - Necesidad de establecer controles básicos antes de medidas de mayor complejidad.
 
-La priorización busca proporcionar una hoja de ruta inicial para el fortalecimiento progresivo de la seguridad de la información y la gestión de riesgos.
+La priorización permitió establecer una **hoja de ruta inicial** para el fortalecimiento progresivo de la seguridad de la información, la gestión de riesgos y la continuidad operativa.
+
+## Plan de acción y horizonte temporal
+
+Las medidas propuestas fueron organizadas considerando diferentes horizontes de implementación:
+
+- **0–30 días:** medidas de atención prioritaria y controles básicos.
+- **30–60 días:** fortalecimiento de procesos, controles y documentación.
+- **60–90 días:** consolidación de medidas y acciones de continuidad.
+
+La planificación temporal constituye una propuesta de implementación y no implica que las acciones hayan sido ejecutadas dentro de dichos períodos.
 
 ## Estado del tratamiento
 
-Este documento describe el **plan de tratamiento propuesto** como parte del programa inicial.
+Este documento describe el **plan de tratamiento propuesto** como resultado de la evaluación de riesgos.
 
-El estado indicado para cada medida representa el estado del tratamiento propuesto y, cuando corresponde, puede hacer referencia a controles preexistentes identificados durante el Assessment.
+Las medidas documentadas representan acciones recomendadas para abordar los riesgos identificados y no deben interpretarse automáticamente como controles implementados.
 
-El detalle del avance de implementación corresponde a información interna de la organización y **no se publica en este repositorio por razones de confidencialidad**.
+Cuando se hace referencia a controles o prácticas existentes, estos corresponden a elementos identificados durante el relevamiento y no implican necesariamente que hayan sido formalizados, documentados o verificados mediante una auditoría.
 
 ## Alcance del documento
 
 El plan contempla los riesgos identificados durante la evaluación y establece medidas orientadas a reducir, controlar o gestionar su exposición.
 
-El detalle completo de los riesgos, incluyendo información específica sobre probabilidad, impacto, nivel de riesgo, responsables y otros datos internos, puede encontrarse únicamente en la documentación interna de la organización y no se publica en este repositorio.
+El detalle completo de los riesgos, incluyendo información específica sobre escenarios, probabilidad, impacto, responsables y otros datos internos, corresponde a documentación de trabajo de la organización y no se publica en este repositorio.
 
 La versión pública se encuentra **generalizada y anonimizada** para evitar la exposición de información sensible.
 
-## Relación con el Assessment de Riesgos
+## Relación con la Evaluación de Riesgos
 
 El tratamiento de riesgos constituye la etapa posterior a la evaluación realizada en:
 
@@ -67,7 +88,7 @@ La relación metodológica utilizada fue:
 
 **Identificación de activos → Identificación de riesgos → Evaluación → Priorización → Tratamiento → Seguimiento**
 
-Las medidas propuestas fueron definidas a partir de los riesgos identificados durante el relevamiento y buscan mantener trazabilidad entre el riesgo observado y la acción de tratamiento propuesta.
+Las medidas propuestas fueron definidas a partir de los riesgos identificados durante el relevamiento, procurando mantener trazabilidad entre el riesgo observado y la acción de tratamiento propuesta.
 
 ## Marcos de referencia
 
@@ -76,6 +97,7 @@ El trabajo utilizó como referencia metodológica:
 - **ISO 31000:2018** — Gestión del riesgo.
 - **ISO/IEC 27001:2022** — Sistema de gestión de seguridad de la información.
 - **ISO/IEC 27002:2022** — Controles de seguridad de la información.
+- **ISO/IEC 27005** — Gestión de riesgos de seguridad de la información.
 - **NIST Cybersecurity Framework (CSF) 2.0** — Gestión del riesgo de ciberseguridad.
 
 Estos marcos fueron utilizados como **referencia metodológica y de buenas prácticas**.
@@ -84,11 +106,11 @@ Su utilización no implica certificación, auditoría de conformidad ni declarac
 
 ## Estado de implementación
 
-Las medidas descritas en este documento corresponden al **plan de tratamiento definido durante el programa inicial**.
+Las medidas descritas en este documento corresponden al **plan de tratamiento definido durante el proyecto**.
 
 No se afirma que todas las medidas propuestas hayan sido implementadas ni que su efectividad haya sido validada mediante una auditoría posterior.
 
-El seguimiento de la implementación y la evaluación de la efectividad de los controles quedan fuera del alcance de la documentación pública presentada en este repositorio.
+El seguimiento de la implementación y la evaluación formal de la efectividad de los controles quedan fuera del alcance de la documentación pública presentada en este repositorio.
 
 ## Confidencialidad
 
