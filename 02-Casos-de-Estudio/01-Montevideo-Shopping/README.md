@@ -4,11 +4,11 @@
 
 ## Naturaleza del proyecto
 
-Este caso de estudio **no constituye una auditoría oficial** de Montevideo Shopping.
+Este caso de estudio **no constituye una auditoría oficial, evaluación autorizada ni diagnóstico de Montevideo Shopping**.
 
 El análisis fue desarrollado sin acceso interno a la organización, sin autorización de Montevideo Shopping y sin participación de personal interno. Se utilizaron **información pública, observación externa, patrones generales de la industria y supuestos metodológicos**, con fines de aprendizaje, demostración de metodología y desarrollo de portafolio profesional.
 
-Los resultados no deben interpretarse como una evaluación del nivel real de seguridad, riesgo o resiliencia de la organización.
+Los resultados no deben interpretarse como una evaluación del nivel real de seguridad, riesgo, continuidad o resiliencia de la organización.
 
 ## Contexto
 
@@ -37,11 +37,11 @@ El trabajo incluye:
 - Evaluación mediante heatmap de riesgo.
 - Identificación conceptual de controles y medidas de tratamiento.
 - Desarrollo de un roadmap de mitigación ilustrativo.
-- Identificación de servicios críticos.
+- Identificación conceptual de servicios críticos.
 - Análisis de impacto al negocio (BIA) a nivel ilustrativo.
 - Definición metodológica de RTO, RPO y MTPD.
 - Análisis de escenarios de interrupción.
-- Estrategias de continuidad y recuperación.
+- Estrategias conceptuales de continuidad y recuperación.
 - Procedimientos conceptuales de respuesta y recuperación.
 - Consideraciones sobre pruebas y ejercicios de continuidad.
 
@@ -64,10 +64,10 @@ El análisis se desarrolló utilizando como referencias metodológicas:
 - **ISO/IEC 27001** — Gestión de la seguridad de la información.
 - **ISO 31000:2018** — Gestión de riesgos.
 - **NIST Cybersecurity Framework (CSF) 2.0** — Gestión del riesgo de ciberseguridad.
-- **CIS Controls v8** — Identificación y referencia de controles de seguridad.
+- **CIS Controls v8** — Referencia para controles de seguridad.
 - **ISO 22301** — Gestión de continuidad del negocio.
 
-La metodología combinó identificación de activos, análisis de riesgos, priorización, identificación de controles, evaluación conceptual de impactos y definición de medidas de tratamiento y continuidad.
+La metodología combinó identificación conceptual de activos, análisis de riesgos, priorización, identificación de controles, evaluación conceptual de impactos y definición de medidas de tratamiento y continuidad.
 
 ## Supuestos
 
@@ -99,7 +99,7 @@ Por lo tanto, los resultados deben interpretarse como un **ejercicio demostrativ
 
 1. Contexto y alcance.
 2. Metodología y supuestos.
-3. Identificación de activos conceptuales por dominio.
+3. Identificación conceptual de activos por dominio.
 4. Identificación y priorización de riesgos.
 5. Heatmap de riesgo.
 6. Evaluación de continuidad y resiliencia operativa.
@@ -113,11 +113,11 @@ Por lo tanto, los resultados deben interpretarse como un **ejercicio demostrativ
 
 ## Documentación detallada
 
-El desarrollo completo del caso de estudio se encuentra disponible en los siguientes documentos:
+El desarrollo completo del caso de estudio se encuentra disponible en los siguientes documentos.
 
 ### 1. Evaluación de Riesgos y Resiliencia Operativa
 
-Incluye el análisis de activos, identificación y priorización de riesgos, heatmap, controles de referencia y roadmap de mitigación.
+Incluye el análisis conceptual de activos, identificación y priorización de riesgos, heatmap, controles de referencia y roadmap de mitigación.
 
 📄 [Evaluación de Riesgos y Resiliencia Operativa — Montevideo Shopping](./Evaluacion-de-Riesgos-y-Resiliencia-Operativa.pdf)
 
@@ -127,14 +127,14 @@ Como extensión del análisis de riesgos, se desarrolló un ejercicio conceptual
 
 El documento aborda:
 
-- Identificación de servicios críticos.
+- Identificación conceptual de servicios críticos.
 - Análisis de impacto al negocio (BIA).
 - RTO, RPO y MTPD.
 - Escenarios de interrupción.
 - Estrategias de continuidad y redundancia.
 - Respuesta inicial ante incidentes.
 - Recuperación priorizada de servicios.
-- Roles y responsabilidades.
+- Roles y responsabilidades propuestos.
 - Comunicaciones durante incidentes.
 - Pruebas y ejercicios.
 - Recomendaciones de mejora.
@@ -147,7 +147,7 @@ Los dos documentos forman parte de un mismo ejercicio de análisis:
 
 **Identificación de activos → Evaluación de riesgos → Priorización → Tratamiento → Continuidad → Recuperación → Mejora**
 
-El **Assessment de Riesgos** establece la base para identificar y priorizar escenarios relevantes, mientras que el **Plan de Continuidad Operativa** extiende el análisis hacia la disponibilidad de servicios críticos, impacto de interrupciones, objetivos de recuperación y estrategias de respuesta y recuperación.
+El **Assessment de Riesgos** establece la base para identificar y priorizar escenarios relevantes, mientras que el **Plan de Continuidad Operativa** extiende el análisis hacia la disponibilidad de servicios críticos, impacto de interrupciones, objetivos de recuperación y estrategias conceptuales de respuesta y recuperación.
 
 ## Nota de confidencialidad y naturaleza del caso
 
@@ -160,6 +160,7 @@ El contenido no representa la posición oficial, arquitectura, controles, capaci
 Cuando se utilizan valores, capacidades técnicas, tiempos, costos o mecanismos de redundancia que no pudieron verificarse públicamente, estos deben interpretarse como **supuestos ilustrativos o recomendaciones de diseño**.
 
 ---
+
 **Autor:** Francisco Noya  
 **Área:** Governance, Risk & Compliance (GRC) | Ciberseguridad | Gestión de Riesgos | Continuidad Operativa  
 **Año:** 2026
