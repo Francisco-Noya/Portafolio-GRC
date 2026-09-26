@@ -69,13 +69,13 @@ Las referencias utilizadas incluyeron **ISO/IEC 27001:2022, ISO/IEC 27002:2022, 
 
 ### Documentación
 
-El Assessment original corresponde a documentación de trabajo de la organización y contiene información que no resulta apropiada para publicación.
+El Assessment forma parte de la documentación desarrollada durante el proyecto. Debido a la naturaleza de la información relevada, su publicación requiere una versión generalizada y anonimizada que preserve la confidencialidad de la organización.
 
-Por razones de confidencialidad, el documento completo no se publica en este repositorio. La información presentada en esta sección ha sido **generalizada y anonimizada** para demostrar el enfoque aplicado sin exponer información sensible de D&D.
+La versión pública del documento será presentada de forma generalizada, omitiendo información sensible, datos personales, información comercial, configuraciones específicas y cualquier otro elemento que pueda comprometer la confidencialidad de D&D.
 
-**Documento original:** [DOCUMENTO INTERNO — NO PUBLICADO]
+**Documento:** [INFORME ASSESSMENT.pdf](./INFORME%20ASSESSMENT.pdf)
 
-**Versión pública:** información generalizada incluida en este repositorio.
+> **Nota:** La versión publicada corresponde a una versión generalizada del documento original, preparada específicamente para su inclusión en este portafolio profesional.
 
 ## Observación general
 
@@ -92,6 +92,6 @@ El contexto y el Assessment Inicial constituyeron el punto de partida para las s
 3. **Tratamiento de Riesgos** — definición de alternativas y medidas propuestas para abordar los riesgos priorizados.
 4. **Políticas y Controles** — desarrollo de lineamientos y controles de seguridad.
 5. **Continuidad Operativa** — consideración de escenarios que podrían afectar la continuidad de las actividades.
-6. **Plan de Acción y Roadmap** — organización de acciones propuestas según prioridades y horizonte temporal.
+6. **Entregables** — organización de documentación complementaria generada durante el proyecto.
 
 > **Nota:** La documentación publicada en este repositorio representa una versión generalizada del trabajo realizado. No debe interpretarse como una reproducción íntegra de la documentación interna de la organización.
