@@ -69,6 +69,7 @@ Documento desarrollado para establecer medidas de tratamiento frente a los riesg
 - Medidas propuestas.
 - Priorización.
 - Horizonte temporal.
+- Roadmap de implementación.
 - Consideraciones de implementación.
 - Relación entre riesgos y acciones.
 
@@ -103,22 +104,6 @@ Documentación relacionada con la identificación inicial de dependencias, escen
 - Relación con los riesgos identificados.
 
 📄 Disponible en [07 — Continuidad Operativa](../07-Continuidad-Operativa/)
-
----
-
-### 07 — Plan de Acción y Roadmap
-
-La planificación de acciones constituye el componente de hoja de ruta del tratamiento de riesgos.
-
-Las acciones fueron organizadas en diferentes horizontes temporales para facilitar su priorización:
-
-- **0–30 días** — medidas prioritarias.
-- **30–60 días** — fortalecimiento de procesos y controles.
-- **60–90 días** — continuidad, consolidación y seguimiento.
-
-El detalle del roadmap se encuentra integrado en el **Plan de Tratamiento de Riesgos**.
-
-📄 [Ver Plan de Tratamiento de Riesgos](../05-Tratamiento-de-Riesgos/Plan-de-Tratamiento-de-Riesgos.pdf)
 
 ## Estado de los entregables
 
