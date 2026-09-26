@@ -13,11 +13,13 @@ A diferencia de la sección [02-Casos-de-Estudio](../02-Casos-de-Estudio/), todo
 
 ## Enfoque GRC
 
-Cada experiencia documentada en esta sección se estructura siguiendo un enfoque consistente: contexto de la organización, alcance del trabajo, inventario de activos, evaluación de riesgos, tratamiento de riesgos, políticas y controles propuestos, continuidad operativa, y entregables generados.
+Cada experiencia documentada en esta sección se estructura siguiendo un enfoque consistente: contexto de la organización, alcance del trabajo, inventario de activos, evaluación de riesgos, tratamiento de riesgos, políticas y controles propuestos, continuidad operativa y entregables generados.
 
 ## Confidencialidad
 
-Toda la información publicada en esta sección está anonimizada y/o generalizada para proteger la confidencialidad de las organizaciones involucradas. No se publican datos personales, credenciales, configuraciones internas ni información comercial sensible. Donde corresponda, se utiliza la marca `[Información anonimizada por confidencialidad]`.
+Toda la información publicada en esta sección está anonimizada y/o generalizada para proteger la confidencialidad de las organizaciones involucradas.
+
+No se publican datos personales, credenciales, configuraciones internas ni información comercial sensible. Donde corresponda, se utiliza la marca `[Información anonimizada por confidencialidad]`.
 
 ## Diferencia respecto a los casos de estudio
 
@@ -30,6 +32,10 @@ Toda la información publicada en esta sección está anonimizada y/o generaliza
 
 ## Contenido actual
 
-- [01-D&D-Servicios-Integrales](./01-D&D-Servicios-Integrales/) — Programa inicial de fortalecimiento de seguridad de la información y gestión de riesgos para D&D Servicios Integrales de Limpieza. Período: 2026.
+| **ID** | **Experiencia** | **Organización** | **Descripción** | **Período** |
+|---|---|---|---|---|
+| 01 | [D&D Servicios Integrales](./01-D&D-Servicios-Integrales/) | D&D Servicios Integrales de Limpieza | Programa inicial de fortalecimiento de la seguridad de la información y gestión de riesgos. | 2026 |
 
-Esta sección está diseñada para incorporar futuras experiencias profesionales a medida que se desarrollen. Actualmente no existen otras experiencias reales documentadas; no se han creado carpetas o contenidos anticipando proyectos futuros.
+Esta sección está diseñada para incorporar futuras experiencias profesionales a medida que se desarrollen.
+
+Actualmente no existen otras experiencias reales documentadas; no se han creado carpetas o contenidos anticipando proyectos futuros.
