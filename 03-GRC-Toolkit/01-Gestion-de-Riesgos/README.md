@@ -4,9 +4,9 @@ Plantillas genéricas para la identificación, análisis, evaluación y tratamie
 
 ## Archivos
 
-- `registro-de-riesgos.csv` — Registro estructurado de riesgos, incluyendo identificación, causas, activos afectados, probabilidad, impacto, nivel de riesgo, tratamiento propuesto, responsable y estado.
+- [**registro-de-riesgos.csv**](./registro-de-riesgos.csv) — Registro estructurado de riesgos, incluyendo identificación, causas, activos afectados, probabilidad, impacto, nivel de riesgo, tratamiento propuesto, responsable y estado.
 
-- `matriz-de-riesgos.md` — Estructura de matriz de riesgos basada en la relación entre probabilidad e impacto, con escalas de referencia.
+- [**matriz-de-riesgos.md**](./matriz-de-riesgos.md) — Estructura de matriz de riesgos basada en la relación entre probabilidad e impacto, con escalas de referencia.
 
 ## Uso
 
@@ -30,4 +30,5 @@ Estas plantillas son **genéricas y reutilizables** y fueron desarrolladas con f
 No corresponden a ninguna organización específica ni representan evidencia de una evaluación formal de riesgos realizada para un cliente.
 
 ---
+
 **Área:** Gestión de Riesgos | GRC | Seguridad de la Información
